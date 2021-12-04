@@ -1,0 +1,2 @@
+# QuotingDojo
+Quoting Dojo Core
